@@ -1,1 +1,2 @@
 # StatDistribution
+つくば統計ゼミの配布用資料
